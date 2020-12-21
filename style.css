@@ -83,3 +83,18 @@ form {
     background-size: cover;
    
 }
+.searchbar{
+    width: 50%;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+}
+.searchbar:hover{
+    box-shadow: 0px 0px 15px dimgray;
+}
+.searchbox{
+    width: 100%;
+    padding: 8px 8px;
+    border: none;
+    outline: none;
+}
